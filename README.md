@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hey, I’m Titan
 
-<!--
-**amoscodebest/amoscodebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Digital Product Builder  
 
-Here are some ideas to get you started:
+I design and build digital platforms across:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💰 Financial & Transaction Systems  
+- 📊 Data & Dashboard Interfaces  
+- 🔐 Authentication & User-Based Platforms  
+- 📦 Service & Booking Solutions  
+- 🧠 Logic-Driven Web Applications  
+- 🎨 Modern UI-Focused Products  
+
+🧠 What I Focus On
+
+⚡ Clean architecture  
+⚡ Functional system logic  
+⚡ Real-world problem solving  
+⚡ Product-driven development  
+
+🌍 Mission
+
+Turning ideas into working systems.  
+Building consistently. Growing intentionally.
+
+📫 Let’s Connect
+Open to collaboration and growth opportunities.
